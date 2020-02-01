@@ -1,0 +1,9 @@
+ID:Title:Author
+9782:Life 3.0; Being Human in the Age of Artificial Intelligence:Max Tegmark
+3541:Elon Musk; Tesla, SpaceX and the Quest for a Fantastic Future:Ashlee Vance
+5436:Code; The Hidden Language of Computer Hardware and Software:Charles Petzold
+1234:Introduction to Algorithms:Charles E. Leiserson
+4321:Compilers; Principles, Techniues and more:Alfred Aho
+5763:Concrete Mathematics:Donald Knuth
+9834:The C Programming Language:Brian Kernighan
+3756:Superintelligence; Paths, Dangers, Strategies:Nick Bostrom
